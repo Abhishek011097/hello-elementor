@@ -1,0 +1,5 @@
+ssh -tt liveuser@172.18.1.8 <<EOF
+cd /var/www/html/Abhi_Wordpress
+git pull
+exit
+EOF
