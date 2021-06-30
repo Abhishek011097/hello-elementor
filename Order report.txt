@@ -1,0 +1,117 @@
+21-06-2021
+
+99247  Order in HOI server but not enterd in TI garuda report page
+
+99187  Customer name is testinig testing in HOI
+
+99174  Customer name is testinig testing in HOI
+
+99131  Customer name is testinig testing in HOI 
+
+99112  Customer name is testinig testing in HOI
+
+99089  Customer name is testinig testing in HOI
+
+99085  Customer name is testinig testing in HOI (Oty in 3*1200=3600)
+
+99084  Customer name is testinig testing in HOI
+
+
+20-06-2021
+
+99069  Customer name is testinig testing in HOI 
+
+99059  Order in HOI server but not enterd in TI garuda report page
+
+99057  Customer name is testinig testing in HOI
+
+99036  Order in HOI server but not enterd in TI garuda report page
+
+99499  Customer name is testinig testing in HOI Qty:4
+
+78479   Order in HOI server but not enterd in TI garuda report page
+
+99640 
+
+99639 ,99637, 78479
+
+
+25-06-2021
+
+100866,100865,100857,100852,100850,100847,100846,100845,100844,100843,100838, Order in HOI server but not enterd in TI garuda report page
+
+
+
+
+24-06-2021
+
+
+100686,Order in HOI server but not enterd in TI garuda report page
+
+
+
+27-06-2021
+
+102081,101976,101975,Order in HOI server but not enterd in TI garuda report page
+
+
+26-06-2021
+
+101720,101272 Order in HOI server but not enterd in TI garuda report page
+
+
+17-04-2021
+
+70365 Accepted
+
+
+15-04-2021
+
+68668,Order in HOI server but not enterd in TI garuda report page
+
+67890 Accepted
+
+
+
+
+
+mkdir /var/www/html/wp-content/uploads
+
+sudo mkdir /var/www/html/wp-content/uploads
+
+sudo mkdir cd /var/www/html/wp-content/uploads
+
+cd
+   29  sudo mkdir /var/www/html/wp-content/uploads
+ sudo mkdir cd /var/www/html/wp-content/uploads
+   31  clear
+   32  sudo rsync -avP ~/wordpress/ /var/www/html/
+   33  sudo yum install rsync
+   34  clear
+   35  sudo rsync -avP ~/wordpress/ /var/www/html/
+   36  mkdir /var/www/html/wp-content/uploads
+   37  sudo mkdir /var/www/html/wp-content/uploads
+   38  sudo chown -R apache:apache /var/www/html/*
+   39  cd /var/www/html/
+   40  cp wp-config-sample.php wp-config.php
+   41  sudo cp wp-config-sample.php wp-config.php
+   42  vim wp-config.php
+   43  yum install vim
+   44  sudo yum install vim
+   45  sudo vim wp-config.php
+   46  systemctl restart httpd
+   47  clear
+   48  /var/www/html/httpd.conf
+   49  sudo vim httpd.conf
+   50  systemctl restart httpd
+
+
+
+
+
+
+
+
+
+
+
